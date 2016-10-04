@@ -6,6 +6,6 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 See `complete` branch for an example.
 
->When something is important enough, you do it even if the odds are not in your favor.
+>When something is important enough, you do it even if the odds are not in your favor. - Elon Musk
 
 [More Info](http://www.brainyquote.com/quotes/authors/e/elon_musk.html)
