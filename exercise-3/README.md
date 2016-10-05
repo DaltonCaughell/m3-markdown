@@ -10,6 +10,13 @@ A _nested list_ of information about the command (i.e., things that it does, or 
 
 See `complete` branch for answers.
 
+# git commit
+
 ```
 git commit -am "bla"
 ```
+
+here is some info
+
+* stages changes to added files
+* commits the changes with a message
